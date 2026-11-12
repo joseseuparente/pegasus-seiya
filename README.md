@@ -29,7 +29,7 @@ Os principais focos deste ambiente de desenvolvimento incluem:
 
 **1. Clonar o repositório:**
 ```bash
-git clone [https://github.com/joseseuparente/pegasus-seiya.git](https://github.com/joseseuparente/pegasus-seiya.git)
+git clone https://github.com/joseseuparente/pegasus-seiya.git
 cd pegasus-seiya
 ```
 **2. Compilar Workspace**
