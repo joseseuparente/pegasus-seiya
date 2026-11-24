@@ -25,7 +25,8 @@ setup(
     entry_points={
         'console_scripts': [
             'flight_control = seiya_control.flight_control:main',
-            'local_position_control = seiya_control.local_position_control:main'
+            'local_position_control = seiya_control.local_position_control:main',
+            'gpio_control = seiya_control.gpio_control:main'
         ],
     },
 )
